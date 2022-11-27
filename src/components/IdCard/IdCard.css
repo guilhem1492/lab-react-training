@@ -1,0 +1,14 @@
+.IdCard {
+  border: solid 1px black;
+  display: flex;
+  padding: 0.5rem;
+  margin: 0.8rem;
+}
+ul {
+  list-style: none;
+  text-align: left;
+  margin-left: -2rem;
+}
+.bold {
+  font-weight: bold;
+}
