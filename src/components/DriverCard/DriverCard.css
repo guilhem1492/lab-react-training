@@ -1,0 +1,18 @@
+.driver-card {
+  display: flex;
+  background-color: blueviolet;
+  width: 300px;
+  border-radius: 15px;
+  margin: 0.8rem;
+}
+
+.driver-card img {
+  margin: auto 0.5rem;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.name-rating-car {
+  display: flex;
+  flex-direction: column;
+}
